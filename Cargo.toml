@@ -1,5 +1,11 @@
 [package]
 name = "sdn"
+description = "Software Defined Networking"
+license = "ISC"
+readme = "README.md"
+repository = "https://git.nstr.no/nstr-sw/sdn"
+authors = ["Nstr Software AS"]
+keywords  = ["sdn"]
 version = "0.1.0"
 edition = "2021"
 
