@@ -10,3 +10,10 @@ Software Defined Networking
 
 - Main repo: https://git.nstr.no/nstr-sw/sdn
 - GitHub mirror: https://github.com/nstr-sw/sdn
+
+## IETF RFCs
+
+The following IETF RFCs have been consulted
+during the development of this project:
+
+- [RFC 8200: Internet Protocol, Version 6 (IPv6) Specification](https://www.rfc-editor.org/rfc/rfc8200.html)
