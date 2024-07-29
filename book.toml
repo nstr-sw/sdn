@@ -1,0 +1,6 @@
+[book]
+authors = ["Nstr Software AS"]
+language = "en"
+multilingual = false
+src = "docs"
+title = "SDN"

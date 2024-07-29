@@ -6,6 +6,18 @@
 
 Software Defined Networking
 
+## Documentation
+
+Serve docs locally from root of local clone of this repo:
+
+```zsh
+cargo install mdbook@0.4.40
+```
+
+```zsh
+mdbook watch --open
+```
+
 ## git repo URLs
 
 - Main repo: https://git.nstr.no/nstr-sw/sdn
