@@ -8,7 +8,7 @@ Software Defined Networking
 
 ## Documentation
 
-Serve docs locally from root of local clone of this repo using `mdbook`:
+Serve book locally from root of local clone of this repo using `mdbook`:
 
 ```zsh
 cargo install mdbook@0.4.40
